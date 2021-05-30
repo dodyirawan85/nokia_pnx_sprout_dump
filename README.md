@@ -1,0 +1,14 @@
+# PNX_00WW_FIH-user 10 QKQ1.190725.002 00WW_4_15B release-keys
+- manufacturer: 
+- platform: sdm710
+- codename: PNX_sprout
+- flavor: PNX_00WW_FIH-user
+- release: 10
+- id: QKQ1.190725.002
+- incremental: 00WW_4_15B
+- tags: release-keys
+- fingerprint: Nokia/Phoenix_00WW/PNX_sprout:10/QKQ1.190725.002/00WW_4_15B:user/release-keys
+- is_ab: true
+- brand: Nokia
+- branch: PNX_00WW_FIH-user-10-QKQ1.190725.002-00WW_4_15B-release-keys
+- repo: nokia_pnx_sprout_dump
